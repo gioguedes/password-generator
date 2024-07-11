@@ -43,4 +43,4 @@ Password-Generator/
 ├── style.css
 ├── js.js
 └── img/
-    └── lock.png´´´
+    └── lock.png
