@@ -20,6 +20,15 @@ Bem-vindo ao **Password Generator**! Este projeto foi desenvolvido com HTML, CSS
    - Clique no botão "Generate" para criar uma nova senha.
 4. **Copie a senha:**
    - Clique no botão "Copy" para copiar a senha gerada para a área de transferência.
+
+## 📷 Fotos
+<p align="center">
+  <img src="https://i.imgur.com/Bsek84e.png" alt="Password Generator">
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/TK6mEDM.png" alt="Outra Imagem">
+</p>
   
 ## 📬 Contato
 Sinta-se à vontade para entrar em contato se tiver alguma dúvida ou sugestão:
